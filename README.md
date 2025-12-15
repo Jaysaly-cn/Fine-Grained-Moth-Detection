@@ -1,12 +1,5 @@
 # Fine-Grained-Moth-Detection
 Fine-Grained Moth Detection &amp; Classification
-这是一个为您量身定制的 `README.md` 文档。它清晰地梳理了项目背景、技术难点解决方案以及完整的工作流。你可以直接将以下内容保存为项目根目录下的 `README.md` 文件。
-
-
-
----
-
-
 
 \# Fine-Grained Moth Detection \& Classification System
 
